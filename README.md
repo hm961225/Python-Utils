@@ -1,2 +1,2 @@
 # flask-utils
-The util is used to Expand the functions in the flask not supported.
+The util is used to expand the functions in the flask not supported.
